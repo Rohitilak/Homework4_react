@@ -1,0 +1,20 @@
+[
+    {
+        "imgUrl" : "https://tse1.mm.bing.net/th?id=OIP.WtizHhmm-yI1SvoNP2tFpwHaK-&pid=Api&P=0&h=180",
+        "backgroundImg" : "https://screenrant.com/wp-content/uploads/2017/12/Bright-movie-banner.jpg",
+        "movieName" : "Bright",
+        "releaseYear" : "2017, David Ayer",
+        "duration" : "177 min",
+        "genres" : "Action, Crime, Fantasy",
+        "description" : "Set in the world where the fantasy creatuse live side by side with humans. A human cops in forced to work with orc to find the weapons everyone is prepared to kill for her"
+    },
+    {
+        "imgUrl" : "https://tse3.mm.bing.net/th?id=OIP.wO-i1eMsyp65UIOiYWIPEwHaK-&pid=Api&P=0&h=180",
+        "backgroundImg" : "https://wallpaperaccess.com/full/3211755.jpg",
+        "movieName" : "Tomb Raider",
+        "releaseYear" : "2018, Roar Uthaug",
+        "duration" : "125 min",
+        "genres" : "Action, Fantasy",
+        "description" : "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft disappeared."
+    }
+]
